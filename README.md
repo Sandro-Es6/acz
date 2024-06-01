@@ -13,4 +13,4 @@ Added vendor prefixes for mozilla and webkit.
 Initially, I was planning on using Grid for the layout, but realized Flexbox is more appropiate for the desired layout, especially when viewed on a mobile device.  
 
 As for a wishlist of things to add in the future, I do plan to recreate the website with React once I learn more JavaScript and React. 
-Additionaly, I need to debug the flag picutres not showing correctly on iOS Safari.
+Additionally, I need to debug the flag picutres not showing correctly on iOS Safari.
